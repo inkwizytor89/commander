@@ -9,12 +9,17 @@ public class AttackPlanPosition implements Comparable {
 
 
     public void calculatePriority() {
-        priority = targetPlanet.calculateDistance(sourcePlanet) * targetPlanet.power;
+        priority = (double) (targetPlanet.calculateDistance(sourcePlanet) * targetPlanet.power);
     }
 
     @Override
     public int compareTo(@NotNull Object o) {
         return priority.compareTo(((AttackPlanPosition)o).priority);
+    }
+
+    @Override
+    public String toString() {
+        return sourcePlanet+" -> "+targetPlanet + "["+priority+ "]";
     }
 
     private static final String LABEL = "LABEL";
