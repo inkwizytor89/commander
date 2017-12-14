@@ -21,9 +21,9 @@ public class Commander {
         new Commander()
         .loadSources(new File("res"+File.separator+"sources.txt"))
         .loadTargets(new File("res"+File.separator+"targets.txt"))
-        .generateAttackPlan()
-        .showSources()
-        .showTargets();
+//        .showSources()
+//        .showTargets()
+        .generateAttackPlan();
     }
 
     private Commander loadSources(File sourcesFile) throws IOException {
@@ -46,7 +46,7 @@ public class Commander {
         return this;
     }
 
-    public Commander generateAttackPlan() {
+    public Commander generateAttackPlan() throws IOException {
         Set<AttackPlanPosition> attackPlanPositions = new TreeSet<>();
         for(TargetPlanet targetPlanet : targets) {
             AttackPlanPosition position = new AttackPlanPosition();
@@ -55,10 +55,21 @@ public class Commander {
             position.calculatePriority();
             attackPlanPositions.add(position);
         }
+        showAttackPlan(attackPlanPositions);
+
+        AttackPlanBuilder builder = new AttackPlanBuilder(attackPlanPositions);
+        builder.createFile("res"+File.separator+"out.xml");
+//        for(AttackPlanPosition position : attackPlanPositions) {
+//            System.out.println(position);
+//        }
+
+        return this;
+    }
+
+    private void showAttackPlan(Set<AttackPlanPosition> attackPlanPositions) {
         for(AttackPlanPosition position : attackPlanPositions) {
             System.out.println(position);
         }
-        return this;
     }
 
     private SourcePlanet findNearestSourcePlanet(TargetPlanet planet) {

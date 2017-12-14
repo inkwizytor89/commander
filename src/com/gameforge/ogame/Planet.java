@@ -1,34 +1,27 @@
 package com.gameforge.ogame;
 
 public abstract class Planet {
-    public static final int GALAXY_INDEX = 1;
-    public static final int SYSTEM_INDEX = 2;
-    public static final int POSITION_INDEX = 3;
-    protected int galaxy;
-    protected int system;
-    protected int position;
+    public static final Integer GALAXY_INDEX = 1;
+    public static final Integer SYSTEM_INDEX = 2;
+    public static final Integer POSITION_INDEX = 3;
+    protected Integer galaxy;
+    protected Integer system;
+    protected Integer position;
 
     protected Planet() {
-
     }
 
-    protected Planet(int galaxy, int system, int position) {
-        this.galaxy = galaxy;
-        this.system = system;
-        this.position = position;
-    }
-
-    public int calculateDistance(Planet planet) {
-        if(galaxy != planet.galaxy) {
+    public Integer calculateDistance(Planet planet) {
+        if(!galaxy.equals(planet.galaxy)) {
             return roundDistance(galaxy, planet.galaxy, 6) *20000;
         }
-        if(system != planet.system) {
+        if(!system.equals(planet.system)) {
             return roundDistance(system, planet.system, 499) *95 +2700;
         }
         return roundDistance(position, planet.position, 15)*5+1000;
     }
 
-    private int roundDistance(int x1, int x2, int max) {
+    private int roundDistance(Integer x1, Integer x2, Integer max) {
         return Math.abs(x1 - x2) < max - Math.abs(x1 - x2) ?  Math.abs(x1 - x2) : max - Math.abs(x1 - x2);
     }
 
