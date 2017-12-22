@@ -1,6 +1,4 @@
-package com.gameforge.ogame;
-
-import org.gradle.api.tasks.SourceTask;
+package com.inkwizytor89.commander;
 
 import java.io.File;
 import java.io.IOException;
@@ -19,11 +17,11 @@ public class Commander {
     public static void main(String[] args) throws IOException {
 
         new Commander()
-        .loadSources(new File("res"+File.separator+"sources.txt"))
-        .loadTargets(new File("res"+File.separator+"targets.txt"))
-//        .showSources()
-//        .showTargets()
-        .generateAttackPlan();
+            .loadSources(new File("res"+File.separator+"sources.txt"))
+            .loadTargets(new File("res"+File.separator+"targets.txt"))
+             .showSources(false)
+             .showTargets(false)
+            .generateAttackPlan();
     }
 
     private Commander loadSources(File sourcesFile) throws IOException {
@@ -46,9 +44,12 @@ public class Commander {
         return this;
     }
 
-    public Commander generateAttackPlan() throws IOException {
+    private void generateAttackPlan() throws IOException {
         Set<AttackPlanPosition> attackPlanPositions = new TreeSet<>();
         for(TargetPlanet targetPlanet : targets) {
+            if(targetPlanet.isSkipped) {
+                continue;
+            }
             AttackPlanPosition position = new AttackPlanPosition();
             position.sourcePlanet = findNearestSourcePlanet(targetPlanet);
             position.targetPlanet = targetPlanet;
@@ -59,11 +60,7 @@ public class Commander {
 
         AttackPlanBuilder builder = new AttackPlanBuilder(attackPlanPositions);
         builder.createFile("res"+File.separator+"out.xml");
-//        for(AttackPlanPosition position : attackPlanPositions) {
-//            System.out.println(position);
-//        }
 
-        return this;
     }
 
     private void showAttackPlan(Set<AttackPlanPosition> attackPlanPositions) {
@@ -85,7 +82,10 @@ public class Commander {
         return nearest;
     }
 
-    private Commander showSources() {
+    private Commander showSources(boolean isActive) {
+        if(!isActive) {
+            return this;
+        }
         System.out.println("\nSources("+sources.size()+"):");
         for(SourcePlanet planet : sources) {
             System.out.println(planet.toString());
@@ -93,7 +93,10 @@ public class Commander {
         return this;
     }
 
-    private Commander showTargets() {
+    private Commander showTargets(boolean isActive) {
+        if(!isActive) {
+            return this;
+        }
         System.out.println("\nTargets("+targets.size()+"):");
         for(TargetPlanet planet : targets) {
             System.out.println(planet.toString());

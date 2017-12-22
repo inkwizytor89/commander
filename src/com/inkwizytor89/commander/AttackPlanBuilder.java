@@ -1,4 +1,4 @@
-package com.gameforge.ogame;
+package com.inkwizytor89.commander;
 
 import com.google.common.io.Files;
 
@@ -19,7 +19,7 @@ public class AttackPlanBuilder {
             reportBody += planPositionPattern
                     .replaceAll(LABEL, position.toLable())
                     .replaceAll(PLANET_ID, position.sourcePlanet.planetId.toString())
-                    .replaceAll(SHIP_COUNT, "140")
+                    .replaceAll(SHIP_COUNT, "150")
                     .replaceAll(GALAXY_NUMER, position.targetPlanet.galaxy.toString())
                     .replaceAll(SYSTEM_NUMER, position.targetPlanet.system.toString())
                     .replaceAll(POSITION_NUMER, position.targetPlanet.position.toString());

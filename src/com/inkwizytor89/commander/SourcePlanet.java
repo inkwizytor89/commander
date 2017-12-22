@@ -1,4 +1,4 @@
-package com.gameforge.ogame;
+package com.inkwizytor89.commander;
 
 public class SourcePlanet extends Planet {
 

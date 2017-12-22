@@ -1,4 +1,4 @@
-package com.gameforge.ogame;
+package com.inkwizytor89.commander;
 
 import org.jetbrains.annotations.NotNull;
 
@@ -19,11 +19,11 @@ public class AttackPlanPosition implements Comparable {
 
     @Override
     public String toString() {
-        return sourcePlanet+" -> "+targetPlanet + "["+priority+ "]";
+        return targetPlanet+" <- "+sourcePlanet + "["+priority+ "]";
     }
 
     public String toLable() {
-        return sourcePlanet+" -> "+targetPlanet;
+        return targetPlanet+" <- "+sourcePlanet;
     }
 
 }

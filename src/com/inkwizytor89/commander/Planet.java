@@ -1,4 +1,4 @@
-package com.gameforge.ogame;
+package com.inkwizytor89.commander;
 
 public abstract class Planet {
     public static final Integer GALAXY_INDEX = 1;
