@@ -1,0 +1,2935 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+	<title>sample</title>
+</head>
+<body>
+
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">[1:178:5] <- [1:199:10]</td></tr>
+</thead>
+<tbody>
+<tr>
+    <td>open</td>
+    <td>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33672961<datalist><option>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33672961</option></datalist></td>
+    <td></td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>28,5</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>150</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='allornone']/div<datalist><option>//div[@id='allornone']/div</option><option>//div[5]/div[2]/div[2]/div</option></datalist></td>
+    <td>482,43</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/a/span</option></datalist></td>
+    <td>58,17</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>14,2</td>
+</tr>
+<tr>   <td>type</td>
+   <td>id=galaxy<datalist><option>id=galaxy</option><option>name=galaxy</option><option>//input[@id='galaxy']</option><option>//td[@id='target']/div[3]/input</option><option>//div[3]/input</option></datalist>
+   </td><td>1</td>
+</tr><tr>
+    <td>type</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>178</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>27,11</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>5</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='buttonz']/div[2]<datalist><option>//div[@id='buttonz']/div[2]</option><option>//div[4]/div[2]</option></datalist></td>
+    <td>539,290</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/div/a/span</option></datalist></td>
+    <td>20,21</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='missionNameWrapper']/p<datalist><option>//div[@id='missionNameWrapper']/p</option><option>//div[5]/div[2]/div/p</option></datalist></td>
+    <td>476,4</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionButton1<datalist><option>id=missionButton1</option><option>link=Atakuj</option><option>//a[@id='missionButton1']</option><option>//li[@id='button1']/a</option><option>xpath=(//a[contains(@href, 'javascript:void(0);')])[12]</option><option>//div[2]/ul/li[8]/a</option></datalist></td>
+    <td>23,34</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionNameWrapper<datalist><option>id=missionNameWrapper</option><option>//div[@id='missionNameWrapper']</option><option>//div[@id='buttonz']/div[2]/div</option><option>//div[5]/div[2]/div</option></datalist></td>
+    <td>496,20</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='start']/span<datalist><option>//a[@id='start']/span</option><option>//div[2]/a[2]/span</option></datalist></td>
+    <td>164,31</td>
+</tr>
+</tbody></table>
+
+
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">[1:176:6] <- [1:199:10]</td></tr>
+</thead>
+<tbody>
+<tr>
+    <td>open</td>
+    <td>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33672961<datalist><option>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33672961</option></datalist></td>
+    <td></td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>28,5</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>150</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='allornone']/div<datalist><option>//div[@id='allornone']/div</option><option>//div[5]/div[2]/div[2]/div</option></datalist></td>
+    <td>482,43</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/a/span</option></datalist></td>
+    <td>58,17</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>14,2</td>
+</tr>
+<tr>   <td>type</td>
+   <td>id=galaxy<datalist><option>id=galaxy</option><option>name=galaxy</option><option>//input[@id='galaxy']</option><option>//td[@id='target']/div[3]/input</option><option>//div[3]/input</option></datalist>
+   </td><td>1</td>
+</tr><tr>
+    <td>type</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>176</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>27,11</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>6</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='buttonz']/div[2]<datalist><option>//div[@id='buttonz']/div[2]</option><option>//div[4]/div[2]</option></datalist></td>
+    <td>539,290</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/div/a/span</option></datalist></td>
+    <td>20,21</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='missionNameWrapper']/p<datalist><option>//div[@id='missionNameWrapper']/p</option><option>//div[5]/div[2]/div/p</option></datalist></td>
+    <td>476,4</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionButton1<datalist><option>id=missionButton1</option><option>link=Atakuj</option><option>//a[@id='missionButton1']</option><option>//li[@id='button1']/a</option><option>xpath=(//a[contains(@href, 'javascript:void(0);')])[12]</option><option>//div[2]/ul/li[8]/a</option></datalist></td>
+    <td>23,34</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionNameWrapper<datalist><option>id=missionNameWrapper</option><option>//div[@id='missionNameWrapper']</option><option>//div[@id='buttonz']/div[2]/div</option><option>//div[5]/div[2]/div</option></datalist></td>
+    <td>496,20</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='start']/span<datalist><option>//a[@id='start']/span</option><option>//div[2]/a[2]/span</option></datalist></td>
+    <td>164,31</td>
+</tr>
+</tbody></table>
+
+
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">[1:177:5] <- [1:199:10]</td></tr>
+</thead>
+<tbody>
+<tr>
+    <td>open</td>
+    <td>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33672961<datalist><option>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33672961</option></datalist></td>
+    <td></td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>28,5</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>150</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='allornone']/div<datalist><option>//div[@id='allornone']/div</option><option>//div[5]/div[2]/div[2]/div</option></datalist></td>
+    <td>482,43</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/a/span</option></datalist></td>
+    <td>58,17</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>14,2</td>
+</tr>
+<tr>   <td>type</td>
+   <td>id=galaxy<datalist><option>id=galaxy</option><option>name=galaxy</option><option>//input[@id='galaxy']</option><option>//td[@id='target']/div[3]/input</option><option>//div[3]/input</option></datalist>
+   </td><td>1</td>
+</tr><tr>
+    <td>type</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>177</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>27,11</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>5</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='buttonz']/div[2]<datalist><option>//div[@id='buttonz']/div[2]</option><option>//div[4]/div[2]</option></datalist></td>
+    <td>539,290</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/div/a/span</option></datalist></td>
+    <td>20,21</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='missionNameWrapper']/p<datalist><option>//div[@id='missionNameWrapper']/p</option><option>//div[5]/div[2]/div/p</option></datalist></td>
+    <td>476,4</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionButton1<datalist><option>id=missionButton1</option><option>link=Atakuj</option><option>//a[@id='missionButton1']</option><option>//li[@id='button1']/a</option><option>xpath=(//a[contains(@href, 'javascript:void(0);')])[12]</option><option>//div[2]/ul/li[8]/a</option></datalist></td>
+    <td>23,34</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionNameWrapper<datalist><option>id=missionNameWrapper</option><option>//div[@id='missionNameWrapper']</option><option>//div[@id='buttonz']/div[2]/div</option><option>//div[5]/div[2]/div</option></datalist></td>
+    <td>496,20</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='start']/span<datalist><option>//a[@id='start']/span</option><option>//div[2]/a[2]/span</option></datalist></td>
+    <td>164,31</td>
+</tr>
+</tbody></table>
+
+
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">[1:170:12] <- [1:199:10]</td></tr>
+</thead>
+<tbody>
+<tr>
+    <td>open</td>
+    <td>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33672961<datalist><option>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33672961</option></datalist></td>
+    <td></td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>28,5</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>150</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='allornone']/div<datalist><option>//div[@id='allornone']/div</option><option>//div[5]/div[2]/div[2]/div</option></datalist></td>
+    <td>482,43</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/a/span</option></datalist></td>
+    <td>58,17</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>14,2</td>
+</tr>
+<tr>   <td>type</td>
+   <td>id=galaxy<datalist><option>id=galaxy</option><option>name=galaxy</option><option>//input[@id='galaxy']</option><option>//td[@id='target']/div[3]/input</option><option>//div[3]/input</option></datalist>
+   </td><td>1</td>
+</tr><tr>
+    <td>type</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>170</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>27,11</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>12</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='buttonz']/div[2]<datalist><option>//div[@id='buttonz']/div[2]</option><option>//div[4]/div[2]</option></datalist></td>
+    <td>539,290</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/div/a/span</option></datalist></td>
+    <td>20,21</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='missionNameWrapper']/p<datalist><option>//div[@id='missionNameWrapper']/p</option><option>//div[5]/div[2]/div/p</option></datalist></td>
+    <td>476,4</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionButton1<datalist><option>id=missionButton1</option><option>link=Atakuj</option><option>//a[@id='missionButton1']</option><option>//li[@id='button1']/a</option><option>xpath=(//a[contains(@href, 'javascript:void(0);')])[12]</option><option>//div[2]/ul/li[8]/a</option></datalist></td>
+    <td>23,34</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionNameWrapper<datalist><option>id=missionNameWrapper</option><option>//div[@id='missionNameWrapper']</option><option>//div[@id='buttonz']/div[2]/div</option><option>//div[5]/div[2]/div</option></datalist></td>
+    <td>496,20</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='start']/span<datalist><option>//a[@id='start']/span</option><option>//div[2]/a[2]/span</option></datalist></td>
+    <td>164,31</td>
+</tr>
+</tbody></table>
+
+
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">[3:221:9] <- [3:219:6]</td></tr>
+</thead>
+<tbody>
+<tr>
+    <td>open</td>
+    <td>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33662312<datalist><option>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33662312</option></datalist></td>
+    <td></td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>28,5</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>150</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='allornone']/div<datalist><option>//div[@id='allornone']/div</option><option>//div[5]/div[2]/div[2]/div</option></datalist></td>
+    <td>482,43</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/a/span</option></datalist></td>
+    <td>58,17</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>14,2</td>
+</tr>
+<tr>   <td>type</td>
+   <td>id=galaxy<datalist><option>id=galaxy</option><option>name=galaxy</option><option>//input[@id='galaxy']</option><option>//td[@id='target']/div[3]/input</option><option>//div[3]/input</option></datalist>
+   </td><td>3</td>
+</tr><tr>
+    <td>type</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>221</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>27,11</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>9</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='buttonz']/div[2]<datalist><option>//div[@id='buttonz']/div[2]</option><option>//div[4]/div[2]</option></datalist></td>
+    <td>539,290</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/div/a/span</option></datalist></td>
+    <td>20,21</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='missionNameWrapper']/p<datalist><option>//div[@id='missionNameWrapper']/p</option><option>//div[5]/div[2]/div/p</option></datalist></td>
+    <td>476,4</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionButton1<datalist><option>id=missionButton1</option><option>link=Atakuj</option><option>//a[@id='missionButton1']</option><option>//li[@id='button1']/a</option><option>xpath=(//a[contains(@href, 'javascript:void(0);')])[12]</option><option>//div[2]/ul/li[8]/a</option></datalist></td>
+    <td>23,34</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionNameWrapper<datalist><option>id=missionNameWrapper</option><option>//div[@id='missionNameWrapper']</option><option>//div[@id='buttonz']/div[2]/div</option><option>//div[5]/div[2]/div</option></datalist></td>
+    <td>496,20</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='start']/span<datalist><option>//a[@id='start']/span</option><option>//div[2]/a[2]/span</option></datalist></td>
+    <td>164,31</td>
+</tr>
+</tbody></table>
+
+
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">[1:171:5] <- [1:199:10]</td></tr>
+</thead>
+<tbody>
+<tr>
+    <td>open</td>
+    <td>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33672961<datalist><option>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33672961</option></datalist></td>
+    <td></td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>28,5</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>150</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='allornone']/div<datalist><option>//div[@id='allornone']/div</option><option>//div[5]/div[2]/div[2]/div</option></datalist></td>
+    <td>482,43</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/a/span</option></datalist></td>
+    <td>58,17</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>14,2</td>
+</tr>
+<tr>   <td>type</td>
+   <td>id=galaxy<datalist><option>id=galaxy</option><option>name=galaxy</option><option>//input[@id='galaxy']</option><option>//td[@id='target']/div[3]/input</option><option>//div[3]/input</option></datalist>
+   </td><td>1</td>
+</tr><tr>
+    <td>type</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>171</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>27,11</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>5</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='buttonz']/div[2]<datalist><option>//div[@id='buttonz']/div[2]</option><option>//div[4]/div[2]</option></datalist></td>
+    <td>539,290</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/div/a/span</option></datalist></td>
+    <td>20,21</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='missionNameWrapper']/p<datalist><option>//div[@id='missionNameWrapper']/p</option><option>//div[5]/div[2]/div/p</option></datalist></td>
+    <td>476,4</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionButton1<datalist><option>id=missionButton1</option><option>link=Atakuj</option><option>//a[@id='missionButton1']</option><option>//li[@id='button1']/a</option><option>xpath=(//a[contains(@href, 'javascript:void(0);')])[12]</option><option>//div[2]/ul/li[8]/a</option></datalist></td>
+    <td>23,34</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionNameWrapper<datalist><option>id=missionNameWrapper</option><option>//div[@id='missionNameWrapper']</option><option>//div[@id='buttonz']/div[2]/div</option><option>//div[5]/div[2]/div</option></datalist></td>
+    <td>496,20</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='start']/span<datalist><option>//a[@id='start']/span</option><option>//div[2]/a[2]/span</option></datalist></td>
+    <td>164,31</td>
+</tr>
+</tbody></table>
+
+
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">[1:163:4] <- [1:199:10]</td></tr>
+</thead>
+<tbody>
+<tr>
+    <td>open</td>
+    <td>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33672961<datalist><option>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33672961</option></datalist></td>
+    <td></td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>28,5</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>150</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='allornone']/div<datalist><option>//div[@id='allornone']/div</option><option>//div[5]/div[2]/div[2]/div</option></datalist></td>
+    <td>482,43</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/a/span</option></datalist></td>
+    <td>58,17</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>14,2</td>
+</tr>
+<tr>   <td>type</td>
+   <td>id=galaxy<datalist><option>id=galaxy</option><option>name=galaxy</option><option>//input[@id='galaxy']</option><option>//td[@id='target']/div[3]/input</option><option>//div[3]/input</option></datalist>
+   </td><td>1</td>
+</tr><tr>
+    <td>type</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>163</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>27,11</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>4</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='buttonz']/div[2]<datalist><option>//div[@id='buttonz']/div[2]</option><option>//div[4]/div[2]</option></datalist></td>
+    <td>539,290</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/div/a/span</option></datalist></td>
+    <td>20,21</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='missionNameWrapper']/p<datalist><option>//div[@id='missionNameWrapper']/p</option><option>//div[5]/div[2]/div/p</option></datalist></td>
+    <td>476,4</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionButton1<datalist><option>id=missionButton1</option><option>link=Atakuj</option><option>//a[@id='missionButton1']</option><option>//li[@id='button1']/a</option><option>xpath=(//a[contains(@href, 'javascript:void(0);')])[12]</option><option>//div[2]/ul/li[8]/a</option></datalist></td>
+    <td>23,34</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionNameWrapper<datalist><option>id=missionNameWrapper</option><option>//div[@id='missionNameWrapper']</option><option>//div[@id='buttonz']/div[2]/div</option><option>//div[5]/div[2]/div</option></datalist></td>
+    <td>496,20</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='start']/span<datalist><option>//a[@id='start']/span</option><option>//div[2]/a[2]/span</option></datalist></td>
+    <td>164,31</td>
+</tr>
+</tbody></table>
+
+
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">[1:163:5] <- [1:199:10]</td></tr>
+</thead>
+<tbody>
+<tr>
+    <td>open</td>
+    <td>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33672961<datalist><option>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33672961</option></datalist></td>
+    <td></td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>28,5</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>150</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='allornone']/div<datalist><option>//div[@id='allornone']/div</option><option>//div[5]/div[2]/div[2]/div</option></datalist></td>
+    <td>482,43</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/a/span</option></datalist></td>
+    <td>58,17</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>14,2</td>
+</tr>
+<tr>   <td>type</td>
+   <td>id=galaxy<datalist><option>id=galaxy</option><option>name=galaxy</option><option>//input[@id='galaxy']</option><option>//td[@id='target']/div[3]/input</option><option>//div[3]/input</option></datalist>
+   </td><td>1</td>
+</tr><tr>
+    <td>type</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>163</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>27,11</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>5</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='buttonz']/div[2]<datalist><option>//div[@id='buttonz']/div[2]</option><option>//div[4]/div[2]</option></datalist></td>
+    <td>539,290</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/div/a/span</option></datalist></td>
+    <td>20,21</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='missionNameWrapper']/p<datalist><option>//div[@id='missionNameWrapper']/p</option><option>//div[5]/div[2]/div/p</option></datalist></td>
+    <td>476,4</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionButton1<datalist><option>id=missionButton1</option><option>link=Atakuj</option><option>//a[@id='missionButton1']</option><option>//li[@id='button1']/a</option><option>xpath=(//a[contains(@href, 'javascript:void(0);')])[12]</option><option>//div[2]/ul/li[8]/a</option></datalist></td>
+    <td>23,34</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionNameWrapper<datalist><option>id=missionNameWrapper</option><option>//div[@id='missionNameWrapper']</option><option>//div[@id='buttonz']/div[2]/div</option><option>//div[5]/div[2]/div</option></datalist></td>
+    <td>496,20</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='start']/span<datalist><option>//a[@id='start']/span</option><option>//div[2]/a[2]/span</option></datalist></td>
+    <td>164,31</td>
+</tr>
+</tbody></table>
+
+
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">[1:170:4] <- [1:199:10]</td></tr>
+</thead>
+<tbody>
+<tr>
+    <td>open</td>
+    <td>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33672961<datalist><option>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33672961</option></datalist></td>
+    <td></td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>28,5</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>150</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='allornone']/div<datalist><option>//div[@id='allornone']/div</option><option>//div[5]/div[2]/div[2]/div</option></datalist></td>
+    <td>482,43</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/a/span</option></datalist></td>
+    <td>58,17</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>14,2</td>
+</tr>
+<tr>   <td>type</td>
+   <td>id=galaxy<datalist><option>id=galaxy</option><option>name=galaxy</option><option>//input[@id='galaxy']</option><option>//td[@id='target']/div[3]/input</option><option>//div[3]/input</option></datalist>
+   </td><td>1</td>
+</tr><tr>
+    <td>type</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>170</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>27,11</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>4</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='buttonz']/div[2]<datalist><option>//div[@id='buttonz']/div[2]</option><option>//div[4]/div[2]</option></datalist></td>
+    <td>539,290</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/div/a/span</option></datalist></td>
+    <td>20,21</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='missionNameWrapper']/p<datalist><option>//div[@id='missionNameWrapper']/p</option><option>//div[5]/div[2]/div/p</option></datalist></td>
+    <td>476,4</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionButton1<datalist><option>id=missionButton1</option><option>link=Atakuj</option><option>//a[@id='missionButton1']</option><option>//li[@id='button1']/a</option><option>xpath=(//a[contains(@href, 'javascript:void(0);')])[12]</option><option>//div[2]/ul/li[8]/a</option></datalist></td>
+    <td>23,34</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionNameWrapper<datalist><option>id=missionNameWrapper</option><option>//div[@id='missionNameWrapper']</option><option>//div[@id='buttonz']/div[2]/div</option><option>//div[5]/div[2]/div</option></datalist></td>
+    <td>496,20</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='start']/span<datalist><option>//a[@id='start']/span</option><option>//div[2]/a[2]/span</option></datalist></td>
+    <td>164,31</td>
+</tr>
+</tbody></table>
+
+
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">[1:153:5] <- [1:199:10]</td></tr>
+</thead>
+<tbody>
+<tr>
+    <td>open</td>
+    <td>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33672961<datalist><option>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33672961</option></datalist></td>
+    <td></td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>28,5</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>150</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='allornone']/div<datalist><option>//div[@id='allornone']/div</option><option>//div[5]/div[2]/div[2]/div</option></datalist></td>
+    <td>482,43</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/a/span</option></datalist></td>
+    <td>58,17</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>14,2</td>
+</tr>
+<tr>   <td>type</td>
+   <td>id=galaxy<datalist><option>id=galaxy</option><option>name=galaxy</option><option>//input[@id='galaxy']</option><option>//td[@id='target']/div[3]/input</option><option>//div[3]/input</option></datalist>
+   </td><td>1</td>
+</tr><tr>
+    <td>type</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>153</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>27,11</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>5</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='buttonz']/div[2]<datalist><option>//div[@id='buttonz']/div[2]</option><option>//div[4]/div[2]</option></datalist></td>
+    <td>539,290</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/div/a/span</option></datalist></td>
+    <td>20,21</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='missionNameWrapper']/p<datalist><option>//div[@id='missionNameWrapper']/p</option><option>//div[5]/div[2]/div/p</option></datalist></td>
+    <td>476,4</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionButton1<datalist><option>id=missionButton1</option><option>link=Atakuj</option><option>//a[@id='missionButton1']</option><option>//li[@id='button1']/a</option><option>xpath=(//a[contains(@href, 'javascript:void(0);')])[12]</option><option>//div[2]/ul/li[8]/a</option></datalist></td>
+    <td>23,34</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionNameWrapper<datalist><option>id=missionNameWrapper</option><option>//div[@id='missionNameWrapper']</option><option>//div[@id='buttonz']/div[2]/div</option><option>//div[5]/div[2]/div</option></datalist></td>
+    <td>496,20</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='start']/span<datalist><option>//a[@id='start']/span</option><option>//div[2]/a[2]/span</option></datalist></td>
+    <td>164,31</td>
+</tr>
+</tbody></table>
+
+
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">[3:214:10] <- [3:219:6]</td></tr>
+</thead>
+<tbody>
+<tr>
+    <td>open</td>
+    <td>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33662312<datalist><option>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33662312</option></datalist></td>
+    <td></td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>28,5</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>150</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='allornone']/div<datalist><option>//div[@id='allornone']/div</option><option>//div[5]/div[2]/div[2]/div</option></datalist></td>
+    <td>482,43</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/a/span</option></datalist></td>
+    <td>58,17</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>14,2</td>
+</tr>
+<tr>   <td>type</td>
+   <td>id=galaxy<datalist><option>id=galaxy</option><option>name=galaxy</option><option>//input[@id='galaxy']</option><option>//td[@id='target']/div[3]/input</option><option>//div[3]/input</option></datalist>
+   </td><td>3</td>
+</tr><tr>
+    <td>type</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>214</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>27,11</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>10</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='buttonz']/div[2]<datalist><option>//div[@id='buttonz']/div[2]</option><option>//div[4]/div[2]</option></datalist></td>
+    <td>539,290</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/div/a/span</option></datalist></td>
+    <td>20,21</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='missionNameWrapper']/p<datalist><option>//div[@id='missionNameWrapper']/p</option><option>//div[5]/div[2]/div/p</option></datalist></td>
+    <td>476,4</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionButton1<datalist><option>id=missionButton1</option><option>link=Atakuj</option><option>//a[@id='missionButton1']</option><option>//li[@id='button1']/a</option><option>xpath=(//a[contains(@href, 'javascript:void(0);')])[12]</option><option>//div[2]/ul/li[8]/a</option></datalist></td>
+    <td>23,34</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionNameWrapper<datalist><option>id=missionNameWrapper</option><option>//div[@id='missionNameWrapper']</option><option>//div[@id='buttonz']/div[2]/div</option><option>//div[5]/div[2]/div</option></datalist></td>
+    <td>496,20</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='start']/span<datalist><option>//a[@id='start']/span</option><option>//div[2]/a[2]/span</option></datalist></td>
+    <td>164,31</td>
+</tr>
+</tbody></table>
+
+
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">[6:374:7] <- [6:386:15]</td></tr>
+</thead>
+<tbody>
+<tr>
+    <td>open</td>
+    <td>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33726740<datalist><option>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33726740</option></datalist></td>
+    <td></td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>28,5</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>150</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='allornone']/div<datalist><option>//div[@id='allornone']/div</option><option>//div[5]/div[2]/div[2]/div</option></datalist></td>
+    <td>482,43</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/a/span</option></datalist></td>
+    <td>58,17</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>14,2</td>
+</tr>
+<tr>   <td>type</td>
+   <td>id=galaxy<datalist><option>id=galaxy</option><option>name=galaxy</option><option>//input[@id='galaxy']</option><option>//td[@id='target']/div[3]/input</option><option>//div[3]/input</option></datalist>
+   </td><td>6</td>
+</tr><tr>
+    <td>type</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>374</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>27,11</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>7</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='buttonz']/div[2]<datalist><option>//div[@id='buttonz']/div[2]</option><option>//div[4]/div[2]</option></datalist></td>
+    <td>539,290</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/div/a/span</option></datalist></td>
+    <td>20,21</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='missionNameWrapper']/p<datalist><option>//div[@id='missionNameWrapper']/p</option><option>//div[5]/div[2]/div/p</option></datalist></td>
+    <td>476,4</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionButton1<datalist><option>id=missionButton1</option><option>link=Atakuj</option><option>//a[@id='missionButton1']</option><option>//li[@id='button1']/a</option><option>xpath=(//a[contains(@href, 'javascript:void(0);')])[12]</option><option>//div[2]/ul/li[8]/a</option></datalist></td>
+    <td>23,34</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionNameWrapper<datalist><option>id=missionNameWrapper</option><option>//div[@id='missionNameWrapper']</option><option>//div[@id='buttonz']/div[2]/div</option><option>//div[5]/div[2]/div</option></datalist></td>
+    <td>496,20</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='start']/span<datalist><option>//a[@id='start']/span</option><option>//div[2]/a[2]/span</option></datalist></td>
+    <td>164,31</td>
+</tr>
+</tbody></table>
+
+
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">[3:209:8] <- [3:219:6]</td></tr>
+</thead>
+<tbody>
+<tr>
+    <td>open</td>
+    <td>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33662312<datalist><option>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33662312</option></datalist></td>
+    <td></td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>28,5</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>150</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='allornone']/div<datalist><option>//div[@id='allornone']/div</option><option>//div[5]/div[2]/div[2]/div</option></datalist></td>
+    <td>482,43</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/a/span</option></datalist></td>
+    <td>58,17</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>14,2</td>
+</tr>
+<tr>   <td>type</td>
+   <td>id=galaxy<datalist><option>id=galaxy</option><option>name=galaxy</option><option>//input[@id='galaxy']</option><option>//td[@id='target']/div[3]/input</option><option>//div[3]/input</option></datalist>
+   </td><td>3</td>
+</tr><tr>
+    <td>type</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>209</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>27,11</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>8</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='buttonz']/div[2]<datalist><option>//div[@id='buttonz']/div[2]</option><option>//div[4]/div[2]</option></datalist></td>
+    <td>539,290</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/div/a/span</option></datalist></td>
+    <td>20,21</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='missionNameWrapper']/p<datalist><option>//div[@id='missionNameWrapper']/p</option><option>//div[5]/div[2]/div/p</option></datalist></td>
+    <td>476,4</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionButton1<datalist><option>id=missionButton1</option><option>link=Atakuj</option><option>//a[@id='missionButton1']</option><option>//li[@id='button1']/a</option><option>xpath=(//a[contains(@href, 'javascript:void(0);')])[12]</option><option>//div[2]/ul/li[8]/a</option></datalist></td>
+    <td>23,34</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionNameWrapper<datalist><option>id=missionNameWrapper</option><option>//div[@id='missionNameWrapper']</option><option>//div[@id='buttonz']/div[2]/div</option><option>//div[5]/div[2]/div</option></datalist></td>
+    <td>496,20</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='start']/span<datalist><option>//a[@id='start']/span</option><option>//div[2]/a[2]/span</option></datalist></td>
+    <td>164,31</td>
+</tr>
+</tbody></table>
+
+
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">[6:374:6] <- [6:386:15]</td></tr>
+</thead>
+<tbody>
+<tr>
+    <td>open</td>
+    <td>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33726740<datalist><option>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33726740</option></datalist></td>
+    <td></td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>28,5</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>150</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='allornone']/div<datalist><option>//div[@id='allornone']/div</option><option>//div[5]/div[2]/div[2]/div</option></datalist></td>
+    <td>482,43</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/a/span</option></datalist></td>
+    <td>58,17</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>14,2</td>
+</tr>
+<tr>   <td>type</td>
+   <td>id=galaxy<datalist><option>id=galaxy</option><option>name=galaxy</option><option>//input[@id='galaxy']</option><option>//td[@id='target']/div[3]/input</option><option>//div[3]/input</option></datalist>
+   </td><td>6</td>
+</tr><tr>
+    <td>type</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>374</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>27,11</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>6</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='buttonz']/div[2]<datalist><option>//div[@id='buttonz']/div[2]</option><option>//div[4]/div[2]</option></datalist></td>
+    <td>539,290</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/div/a/span</option></datalist></td>
+    <td>20,21</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='missionNameWrapper']/p<datalist><option>//div[@id='missionNameWrapper']/p</option><option>//div[5]/div[2]/div/p</option></datalist></td>
+    <td>476,4</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionButton1<datalist><option>id=missionButton1</option><option>link=Atakuj</option><option>//a[@id='missionButton1']</option><option>//li[@id='button1']/a</option><option>xpath=(//a[contains(@href, 'javascript:void(0);')])[12]</option><option>//div[2]/ul/li[8]/a</option></datalist></td>
+    <td>23,34</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionNameWrapper<datalist><option>id=missionNameWrapper</option><option>//div[@id='missionNameWrapper']</option><option>//div[@id='buttonz']/div[2]/div</option><option>//div[5]/div[2]/div</option></datalist></td>
+    <td>496,20</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='start']/span<datalist><option>//a[@id='start']/span</option><option>//div[2]/a[2]/span</option></datalist></td>
+    <td>164,31</td>
+</tr>
+</tbody></table>
+
+
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">[2:143:6] <- [2:199:5]</td></tr>
+</thead>
+<tbody>
+<tr>
+    <td>open</td>
+    <td>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33665513<datalist><option>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33665513</option></datalist></td>
+    <td></td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>28,5</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>150</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='allornone']/div<datalist><option>//div[@id='allornone']/div</option><option>//div[5]/div[2]/div[2]/div</option></datalist></td>
+    <td>482,43</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/a/span</option></datalist></td>
+    <td>58,17</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>14,2</td>
+</tr>
+<tr>   <td>type</td>
+   <td>id=galaxy<datalist><option>id=galaxy</option><option>name=galaxy</option><option>//input[@id='galaxy']</option><option>//td[@id='target']/div[3]/input</option><option>//div[3]/input</option></datalist>
+   </td><td>2</td>
+</tr><tr>
+    <td>type</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>143</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>27,11</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>6</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='buttonz']/div[2]<datalist><option>//div[@id='buttonz']/div[2]</option><option>//div[4]/div[2]</option></datalist></td>
+    <td>539,290</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/div/a/span</option></datalist></td>
+    <td>20,21</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='missionNameWrapper']/p<datalist><option>//div[@id='missionNameWrapper']/p</option><option>//div[5]/div[2]/div/p</option></datalist></td>
+    <td>476,4</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionButton1<datalist><option>id=missionButton1</option><option>link=Atakuj</option><option>//a[@id='missionButton1']</option><option>//li[@id='button1']/a</option><option>xpath=(//a[contains(@href, 'javascript:void(0);')])[12]</option><option>//div[2]/ul/li[8]/a</option></datalist></td>
+    <td>23,34</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionNameWrapper<datalist><option>id=missionNameWrapper</option><option>//div[@id='missionNameWrapper']</option><option>//div[@id='buttonz']/div[2]/div</option><option>//div[5]/div[2]/div</option></datalist></td>
+    <td>496,20</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='start']/span<datalist><option>//a[@id='start']/span</option><option>//div[2]/a[2]/span</option></datalist></td>
+    <td>164,31</td>
+</tr>
+</tbody></table>
+
+
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">[6:66:7] <- [6:111:8]</td></tr>
+</thead>
+<tbody>
+<tr>
+    <td>open</td>
+    <td>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33741624<datalist><option>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33741624</option></datalist></td>
+    <td></td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>28,5</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>150</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='allornone']/div<datalist><option>//div[@id='allornone']/div</option><option>//div[5]/div[2]/div[2]/div</option></datalist></td>
+    <td>482,43</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/a/span</option></datalist></td>
+    <td>58,17</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>14,2</td>
+</tr>
+<tr>   <td>type</td>
+   <td>id=galaxy<datalist><option>id=galaxy</option><option>name=galaxy</option><option>//input[@id='galaxy']</option><option>//td[@id='target']/div[3]/input</option><option>//div[3]/input</option></datalist>
+   </td><td>6</td>
+</tr><tr>
+    <td>type</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>66</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>27,11</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>7</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='buttonz']/div[2]<datalist><option>//div[@id='buttonz']/div[2]</option><option>//div[4]/div[2]</option></datalist></td>
+    <td>539,290</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/div/a/span</option></datalist></td>
+    <td>20,21</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='missionNameWrapper']/p<datalist><option>//div[@id='missionNameWrapper']/p</option><option>//div[5]/div[2]/div/p</option></datalist></td>
+    <td>476,4</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionButton1<datalist><option>id=missionButton1</option><option>link=Atakuj</option><option>//a[@id='missionButton1']</option><option>//li[@id='button1']/a</option><option>xpath=(//a[contains(@href, 'javascript:void(0);')])[12]</option><option>//div[2]/ul/li[8]/a</option></datalist></td>
+    <td>23,34</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionNameWrapper<datalist><option>id=missionNameWrapper</option><option>//div[@id='missionNameWrapper']</option><option>//div[@id='buttonz']/div[2]/div</option><option>//div[5]/div[2]/div</option></datalist></td>
+    <td>496,20</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='start']/span<datalist><option>//a[@id='start']/span</option><option>//div[2]/a[2]/span</option></datalist></td>
+    <td>164,31</td>
+</tr>
+</tbody></table>
+
+
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">[2:143:4] <- [2:199:5]</td></tr>
+</thead>
+<tbody>
+<tr>
+    <td>open</td>
+    <td>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33665513<datalist><option>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33665513</option></datalist></td>
+    <td></td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>28,5</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>150</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='allornone']/div<datalist><option>//div[@id='allornone']/div</option><option>//div[5]/div[2]/div[2]/div</option></datalist></td>
+    <td>482,43</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/a/span</option></datalist></td>
+    <td>58,17</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>14,2</td>
+</tr>
+<tr>   <td>type</td>
+   <td>id=galaxy<datalist><option>id=galaxy</option><option>name=galaxy</option><option>//input[@id='galaxy']</option><option>//td[@id='target']/div[3]/input</option><option>//div[3]/input</option></datalist>
+   </td><td>2</td>
+</tr><tr>
+    <td>type</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>143</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>27,11</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>4</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='buttonz']/div[2]<datalist><option>//div[@id='buttonz']/div[2]</option><option>//div[4]/div[2]</option></datalist></td>
+    <td>539,290</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/div/a/span</option></datalist></td>
+    <td>20,21</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='missionNameWrapper']/p<datalist><option>//div[@id='missionNameWrapper']/p</option><option>//div[5]/div[2]/div/p</option></datalist></td>
+    <td>476,4</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionButton1<datalist><option>id=missionButton1</option><option>link=Atakuj</option><option>//a[@id='missionButton1']</option><option>//li[@id='button1']/a</option><option>xpath=(//a[contains(@href, 'javascript:void(0);')])[12]</option><option>//div[2]/ul/li[8]/a</option></datalist></td>
+    <td>23,34</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionNameWrapper<datalist><option>id=missionNameWrapper</option><option>//div[@id='missionNameWrapper']</option><option>//div[@id='buttonz']/div[2]/div</option><option>//div[5]/div[2]/div</option></datalist></td>
+    <td>496,20</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='start']/span<datalist><option>//a[@id='start']/span</option><option>//div[2]/a[2]/span</option></datalist></td>
+    <td>164,31</td>
+</tr>
+</tbody></table>
+
+
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">[6:145:8] <- [6:111:8]</td></tr>
+</thead>
+<tbody>
+<tr>
+    <td>open</td>
+    <td>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33741624<datalist><option>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33741624</option></datalist></td>
+    <td></td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>28,5</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>150</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='allornone']/div<datalist><option>//div[@id='allornone']/div</option><option>//div[5]/div[2]/div[2]/div</option></datalist></td>
+    <td>482,43</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/a/span</option></datalist></td>
+    <td>58,17</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>14,2</td>
+</tr>
+<tr>   <td>type</td>
+   <td>id=galaxy<datalist><option>id=galaxy</option><option>name=galaxy</option><option>//input[@id='galaxy']</option><option>//td[@id='target']/div[3]/input</option><option>//div[3]/input</option></datalist>
+   </td><td>6</td>
+</tr><tr>
+    <td>type</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>145</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>27,11</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>8</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='buttonz']/div[2]<datalist><option>//div[@id='buttonz']/div[2]</option><option>//div[4]/div[2]</option></datalist></td>
+    <td>539,290</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/div/a/span</option></datalist></td>
+    <td>20,21</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='missionNameWrapper']/p<datalist><option>//div[@id='missionNameWrapper']/p</option><option>//div[5]/div[2]/div/p</option></datalist></td>
+    <td>476,4</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionButton1<datalist><option>id=missionButton1</option><option>link=Atakuj</option><option>//a[@id='missionButton1']</option><option>//li[@id='button1']/a</option><option>xpath=(//a[contains(@href, 'javascript:void(0);')])[12]</option><option>//div[2]/ul/li[8]/a</option></datalist></td>
+    <td>23,34</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionNameWrapper<datalist><option>id=missionNameWrapper</option><option>//div[@id='missionNameWrapper']</option><option>//div[@id='buttonz']/div[2]/div</option><option>//div[5]/div[2]/div</option></datalist></td>
+    <td>496,20</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='start']/span<datalist><option>//a[@id='start']/span</option><option>//div[2]/a[2]/span</option></datalist></td>
+    <td>164,31</td>
+</tr>
+</tbody></table>
+
+
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">[6:66:5] <- [6:111:8]</td></tr>
+</thead>
+<tbody>
+<tr>
+    <td>open</td>
+    <td>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33741624<datalist><option>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33741624</option></datalist></td>
+    <td></td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>28,5</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>150</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='allornone']/div<datalist><option>//div[@id='allornone']/div</option><option>//div[5]/div[2]/div[2]/div</option></datalist></td>
+    <td>482,43</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/a/span</option></datalist></td>
+    <td>58,17</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>14,2</td>
+</tr>
+<tr>   <td>type</td>
+   <td>id=galaxy<datalist><option>id=galaxy</option><option>name=galaxy</option><option>//input[@id='galaxy']</option><option>//td[@id='target']/div[3]/input</option><option>//div[3]/input</option></datalist>
+   </td><td>6</td>
+</tr><tr>
+    <td>type</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>66</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>27,11</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>5</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='buttonz']/div[2]<datalist><option>//div[@id='buttonz']/div[2]</option><option>//div[4]/div[2]</option></datalist></td>
+    <td>539,290</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/div/a/span</option></datalist></td>
+    <td>20,21</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='missionNameWrapper']/p<datalist><option>//div[@id='missionNameWrapper']/p</option><option>//div[5]/div[2]/div/p</option></datalist></td>
+    <td>476,4</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionButton1<datalist><option>id=missionButton1</option><option>link=Atakuj</option><option>//a[@id='missionButton1']</option><option>//li[@id='button1']/a</option><option>xpath=(//a[contains(@href, 'javascript:void(0);')])[12]</option><option>//div[2]/ul/li[8]/a</option></datalist></td>
+    <td>23,34</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionNameWrapper<datalist><option>id=missionNameWrapper</option><option>//div[@id='missionNameWrapper']</option><option>//div[@id='buttonz']/div[2]/div</option><option>//div[5]/div[2]/div</option></datalist></td>
+    <td>496,20</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='start']/span<datalist><option>//a[@id='start']/span</option><option>//div[2]/a[2]/span</option></datalist></td>
+    <td>164,31</td>
+</tr>
+</tbody></table>
+
+
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">[6:66:6] <- [6:111:8]</td></tr>
+</thead>
+<tbody>
+<tr>
+    <td>open</td>
+    <td>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33741624<datalist><option>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33741624</option></datalist></td>
+    <td></td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>28,5</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>150</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='allornone']/div<datalist><option>//div[@id='allornone']/div</option><option>//div[5]/div[2]/div[2]/div</option></datalist></td>
+    <td>482,43</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/a/span</option></datalist></td>
+    <td>58,17</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>14,2</td>
+</tr>
+<tr>   <td>type</td>
+   <td>id=galaxy<datalist><option>id=galaxy</option><option>name=galaxy</option><option>//input[@id='galaxy']</option><option>//td[@id='target']/div[3]/input</option><option>//div[3]/input</option></datalist>
+   </td><td>6</td>
+</tr><tr>
+    <td>type</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>66</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>27,11</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>6</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='buttonz']/div[2]<datalist><option>//div[@id='buttonz']/div[2]</option><option>//div[4]/div[2]</option></datalist></td>
+    <td>539,290</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/div/a/span</option></datalist></td>
+    <td>20,21</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='missionNameWrapper']/p<datalist><option>//div[@id='missionNameWrapper']/p</option><option>//div[5]/div[2]/div/p</option></datalist></td>
+    <td>476,4</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionButton1<datalist><option>id=missionButton1</option><option>link=Atakuj</option><option>//a[@id='missionButton1']</option><option>//li[@id='button1']/a</option><option>xpath=(//a[contains(@href, 'javascript:void(0);')])[12]</option><option>//div[2]/ul/li[8]/a</option></datalist></td>
+    <td>23,34</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionNameWrapper<datalist><option>id=missionNameWrapper</option><option>//div[@id='missionNameWrapper']</option><option>//div[@id='buttonz']/div[2]/div</option><option>//div[5]/div[2]/div</option></datalist></td>
+    <td>496,20</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='start']/span<datalist><option>//a[@id='start']/span</option><option>//div[2]/a[2]/span</option></datalist></td>
+    <td>164,31</td>
+</tr>
+</tbody></table>
+
+
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">[6:66:8] <- [6:111:8]</td></tr>
+</thead>
+<tbody>
+<tr>
+    <td>open</td>
+    <td>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33741624<datalist><option>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33741624</option></datalist></td>
+    <td></td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>28,5</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>150</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='allornone']/div<datalist><option>//div[@id='allornone']/div</option><option>//div[5]/div[2]/div[2]/div</option></datalist></td>
+    <td>482,43</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/a/span</option></datalist></td>
+    <td>58,17</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>14,2</td>
+</tr>
+<tr>   <td>type</td>
+   <td>id=galaxy<datalist><option>id=galaxy</option><option>name=galaxy</option><option>//input[@id='galaxy']</option><option>//td[@id='target']/div[3]/input</option><option>//div[3]/input</option></datalist>
+   </td><td>6</td>
+</tr><tr>
+    <td>type</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>66</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>27,11</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>8</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='buttonz']/div[2]<datalist><option>//div[@id='buttonz']/div[2]</option><option>//div[4]/div[2]</option></datalist></td>
+    <td>539,290</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/div/a/span</option></datalist></td>
+    <td>20,21</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='missionNameWrapper']/p<datalist><option>//div[@id='missionNameWrapper']/p</option><option>//div[5]/div[2]/div/p</option></datalist></td>
+    <td>476,4</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionButton1<datalist><option>id=missionButton1</option><option>link=Atakuj</option><option>//a[@id='missionButton1']</option><option>//li[@id='button1']/a</option><option>xpath=(//a[contains(@href, 'javascript:void(0);')])[12]</option><option>//div[2]/ul/li[8]/a</option></datalist></td>
+    <td>23,34</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionNameWrapper<datalist><option>id=missionNameWrapper</option><option>//div[@id='missionNameWrapper']</option><option>//div[@id='buttonz']/div[2]/div</option><option>//div[5]/div[2]/div</option></datalist></td>
+    <td>496,20</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='start']/span<datalist><option>//a[@id='start']/span</option><option>//div[2]/a[2]/span</option></datalist></td>
+    <td>164,31</td>
+</tr>
+</tbody></table>
+
+
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">[2:291:8] <- [2:199:5]</td></tr>
+</thead>
+<tbody>
+<tr>
+    <td>open</td>
+    <td>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33665513<datalist><option>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33665513</option></datalist></td>
+    <td></td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>28,5</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>150</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='allornone']/div<datalist><option>//div[@id='allornone']/div</option><option>//div[5]/div[2]/div[2]/div</option></datalist></td>
+    <td>482,43</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/a/span</option></datalist></td>
+    <td>58,17</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>14,2</td>
+</tr>
+<tr>   <td>type</td>
+   <td>id=galaxy<datalist><option>id=galaxy</option><option>name=galaxy</option><option>//input[@id='galaxy']</option><option>//td[@id='target']/div[3]/input</option><option>//div[3]/input</option></datalist>
+   </td><td>2</td>
+</tr><tr>
+    <td>type</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>291</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>27,11</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>8</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='buttonz']/div[2]<datalist><option>//div[@id='buttonz']/div[2]</option><option>//div[4]/div[2]</option></datalist></td>
+    <td>539,290</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/div/a/span</option></datalist></td>
+    <td>20,21</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='missionNameWrapper']/p<datalist><option>//div[@id='missionNameWrapper']/p</option><option>//div[5]/div[2]/div/p</option></datalist></td>
+    <td>476,4</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionButton1<datalist><option>id=missionButton1</option><option>link=Atakuj</option><option>//a[@id='missionButton1']</option><option>//li[@id='button1']/a</option><option>xpath=(//a[contains(@href, 'javascript:void(0);')])[12]</option><option>//div[2]/ul/li[8]/a</option></datalist></td>
+    <td>23,34</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionNameWrapper<datalist><option>id=missionNameWrapper</option><option>//div[@id='missionNameWrapper']</option><option>//div[@id='buttonz']/div[2]/div</option><option>//div[5]/div[2]/div</option></datalist></td>
+    <td>496,20</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='start']/span<datalist><option>//a[@id='start']/span</option><option>//div[2]/a[2]/span</option></datalist></td>
+    <td>164,31</td>
+</tr>
+</tbody></table>
+
+
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">[5:1:8] <- [5:396:8]</td></tr>
+</thead>
+<tbody>
+<tr>
+    <td>open</td>
+    <td>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33733239<datalist><option>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33733239</option></datalist></td>
+    <td></td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>28,5</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>150</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='allornone']/div<datalist><option>//div[@id='allornone']/div</option><option>//div[5]/div[2]/div[2]/div</option></datalist></td>
+    <td>482,43</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/a/span</option></datalist></td>
+    <td>58,17</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>14,2</td>
+</tr>
+<tr>   <td>type</td>
+   <td>id=galaxy<datalist><option>id=galaxy</option><option>name=galaxy</option><option>//input[@id='galaxy']</option><option>//td[@id='target']/div[3]/input</option><option>//div[3]/input</option></datalist>
+   </td><td>5</td>
+</tr><tr>
+    <td>type</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>1</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>27,11</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>8</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='buttonz']/div[2]<datalist><option>//div[@id='buttonz']/div[2]</option><option>//div[4]/div[2]</option></datalist></td>
+    <td>539,290</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/div/a/span</option></datalist></td>
+    <td>20,21</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='missionNameWrapper']/p<datalist><option>//div[@id='missionNameWrapper']/p</option><option>//div[5]/div[2]/div/p</option></datalist></td>
+    <td>476,4</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionButton1<datalist><option>id=missionButton1</option><option>link=Atakuj</option><option>//a[@id='missionButton1']</option><option>//li[@id='button1']/a</option><option>xpath=(//a[contains(@href, 'javascript:void(0);')])[12]</option><option>//div[2]/ul/li[8]/a</option></datalist></td>
+    <td>23,34</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionNameWrapper<datalist><option>id=missionNameWrapper</option><option>//div[@id='missionNameWrapper']</option><option>//div[@id='buttonz']/div[2]/div</option><option>//div[5]/div[2]/div</option></datalist></td>
+    <td>496,20</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='start']/span<datalist><option>//a[@id='start']/span</option><option>//div[2]/a[2]/span</option></datalist></td>
+    <td>164,31</td>
+</tr>
+</tbody></table>
+
+
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">[2:288:8] <- [2:199:5]</td></tr>
+</thead>
+<tbody>
+<tr>
+    <td>open</td>
+    <td>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33665513<datalist><option>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33665513</option></datalist></td>
+    <td></td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>28,5</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>150</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='allornone']/div<datalist><option>//div[@id='allornone']/div</option><option>//div[5]/div[2]/div[2]/div</option></datalist></td>
+    <td>482,43</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/a/span</option></datalist></td>
+    <td>58,17</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>14,2</td>
+</tr>
+<tr>   <td>type</td>
+   <td>id=galaxy<datalist><option>id=galaxy</option><option>name=galaxy</option><option>//input[@id='galaxy']</option><option>//td[@id='target']/div[3]/input</option><option>//div[3]/input</option></datalist>
+   </td><td>2</td>
+</tr><tr>
+    <td>type</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>288</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>27,11</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>8</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='buttonz']/div[2]<datalist><option>//div[@id='buttonz']/div[2]</option><option>//div[4]/div[2]</option></datalist></td>
+    <td>539,290</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/div/a/span</option></datalist></td>
+    <td>20,21</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='missionNameWrapper']/p<datalist><option>//div[@id='missionNameWrapper']/p</option><option>//div[5]/div[2]/div/p</option></datalist></td>
+    <td>476,4</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionButton1<datalist><option>id=missionButton1</option><option>link=Atakuj</option><option>//a[@id='missionButton1']</option><option>//li[@id='button1']/a</option><option>xpath=(//a[contains(@href, 'javascript:void(0);')])[12]</option><option>//div[2]/ul/li[8]/a</option></datalist></td>
+    <td>23,34</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionNameWrapper<datalist><option>id=missionNameWrapper</option><option>//div[@id='missionNameWrapper']</option><option>//div[@id='buttonz']/div[2]/div</option><option>//div[5]/div[2]/div</option></datalist></td>
+    <td>496,20</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='start']/span<datalist><option>//a[@id='start']/span</option><option>//div[2]/a[2]/span</option></datalist></td>
+    <td>164,31</td>
+</tr>
+</tbody></table>
+
+
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">[2:295:8] <- [2:199:5]</td></tr>
+</thead>
+<tbody>
+<tr>
+    <td>open</td>
+    <td>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33665513<datalist><option>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33665513</option></datalist></td>
+    <td></td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>28,5</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>150</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='allornone']/div<datalist><option>//div[@id='allornone']/div</option><option>//div[5]/div[2]/div[2]/div</option></datalist></td>
+    <td>482,43</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/a/span</option></datalist></td>
+    <td>58,17</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>14,2</td>
+</tr>
+<tr>   <td>type</td>
+   <td>id=galaxy<datalist><option>id=galaxy</option><option>name=galaxy</option><option>//input[@id='galaxy']</option><option>//td[@id='target']/div[3]/input</option><option>//div[3]/input</option></datalist>
+   </td><td>2</td>
+</tr><tr>
+    <td>type</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>295</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>27,11</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>8</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='buttonz']/div[2]<datalist><option>//div[@id='buttonz']/div[2]</option><option>//div[4]/div[2]</option></datalist></td>
+    <td>539,290</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/div/a/span</option></datalist></td>
+    <td>20,21</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='missionNameWrapper']/p<datalist><option>//div[@id='missionNameWrapper']/p</option><option>//div[5]/div[2]/div/p</option></datalist></td>
+    <td>476,4</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionButton1<datalist><option>id=missionButton1</option><option>link=Atakuj</option><option>//a[@id='missionButton1']</option><option>//li[@id='button1']/a</option><option>xpath=(//a[contains(@href, 'javascript:void(0);')])[12]</option><option>//div[2]/ul/li[8]/a</option></datalist></td>
+    <td>23,34</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionNameWrapper<datalist><option>id=missionNameWrapper</option><option>//div[@id='missionNameWrapper']</option><option>//div[@id='buttonz']/div[2]/div</option><option>//div[5]/div[2]/div</option></datalist></td>
+    <td>496,20</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='start']/span<datalist><option>//a[@id='start']/span</option><option>//div[2]/a[2]/span</option></datalist></td>
+    <td>164,31</td>
+</tr>
+</tbody></table>
+
+
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">[2:301:5] <- [2:199:5]</td></tr>
+</thead>
+<tbody>
+<tr>
+    <td>open</td>
+    <td>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33665513<datalist><option>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33665513</option></datalist></td>
+    <td></td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>28,5</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>150</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='allornone']/div<datalist><option>//div[@id='allornone']/div</option><option>//div[5]/div[2]/div[2]/div</option></datalist></td>
+    <td>482,43</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/a/span</option></datalist></td>
+    <td>58,17</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>14,2</td>
+</tr>
+<tr>   <td>type</td>
+   <td>id=galaxy<datalist><option>id=galaxy</option><option>name=galaxy</option><option>//input[@id='galaxy']</option><option>//td[@id='target']/div[3]/input</option><option>//div[3]/input</option></datalist>
+   </td><td>2</td>
+</tr><tr>
+    <td>type</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>301</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>27,11</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>5</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='buttonz']/div[2]<datalist><option>//div[@id='buttonz']/div[2]</option><option>//div[4]/div[2]</option></datalist></td>
+    <td>539,290</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/div/a/span</option></datalist></td>
+    <td>20,21</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='missionNameWrapper']/p<datalist><option>//div[@id='missionNameWrapper']/p</option><option>//div[5]/div[2]/div/p</option></datalist></td>
+    <td>476,4</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionButton1<datalist><option>id=missionButton1</option><option>link=Atakuj</option><option>//a[@id='missionButton1']</option><option>//li[@id='button1']/a</option><option>xpath=(//a[contains(@href, 'javascript:void(0);')])[12]</option><option>//div[2]/ul/li[8]/a</option></datalist></td>
+    <td>23,34</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionNameWrapper<datalist><option>id=missionNameWrapper</option><option>//div[@id='missionNameWrapper']</option><option>//div[@id='buttonz']/div[2]/div</option><option>//div[5]/div[2]/div</option></datalist></td>
+    <td>496,20</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='start']/span<datalist><option>//a[@id='start']/span</option><option>//div[2]/a[2]/span</option></datalist></td>
+    <td>164,31</td>
+</tr>
+</tbody></table>
+
+
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">[5:1:7] <- [5:396:8]</td></tr>
+</thead>
+<tbody>
+<tr>
+    <td>open</td>
+    <td>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33733239<datalist><option>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33733239</option></datalist></td>
+    <td></td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>28,5</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>150</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='allornone']/div<datalist><option>//div[@id='allornone']/div</option><option>//div[5]/div[2]/div[2]/div</option></datalist></td>
+    <td>482,43</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/a/span</option></datalist></td>
+    <td>58,17</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>14,2</td>
+</tr>
+<tr>   <td>type</td>
+   <td>id=galaxy<datalist><option>id=galaxy</option><option>name=galaxy</option><option>//input[@id='galaxy']</option><option>//td[@id='target']/div[3]/input</option><option>//div[3]/input</option></datalist>
+   </td><td>5</td>
+</tr><tr>
+    <td>type</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>1</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>27,11</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>7</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='buttonz']/div[2]<datalist><option>//div[@id='buttonz']/div[2]</option><option>//div[4]/div[2]</option></datalist></td>
+    <td>539,290</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/div/a/span</option></datalist></td>
+    <td>20,21</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='missionNameWrapper']/p<datalist><option>//div[@id='missionNameWrapper']/p</option><option>//div[5]/div[2]/div/p</option></datalist></td>
+    <td>476,4</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionButton1<datalist><option>id=missionButton1</option><option>link=Atakuj</option><option>//a[@id='missionButton1']</option><option>//li[@id='button1']/a</option><option>xpath=(//a[contains(@href, 'javascript:void(0);')])[12]</option><option>//div[2]/ul/li[8]/a</option></datalist></td>
+    <td>23,34</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionNameWrapper<datalist><option>id=missionNameWrapper</option><option>//div[@id='missionNameWrapper']</option><option>//div[@id='buttonz']/div[2]/div</option><option>//div[5]/div[2]/div</option></datalist></td>
+    <td>496,20</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='start']/span<datalist><option>//a[@id='start']/span</option><option>//div[2]/a[2]/span</option></datalist></td>
+    <td>164,31</td>
+</tr>
+</tbody></table>
+
+
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">[6:323:7] <- [6:386:15]</td></tr>
+</thead>
+<tbody>
+<tr>
+    <td>open</td>
+    <td>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33726740<datalist><option>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33726740</option></datalist></td>
+    <td></td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>28,5</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>150</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='allornone']/div<datalist><option>//div[@id='allornone']/div</option><option>//div[5]/div[2]/div[2]/div</option></datalist></td>
+    <td>482,43</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/a/span</option></datalist></td>
+    <td>58,17</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>14,2</td>
+</tr>
+<tr>   <td>type</td>
+   <td>id=galaxy<datalist><option>id=galaxy</option><option>name=galaxy</option><option>//input[@id='galaxy']</option><option>//td[@id='target']/div[3]/input</option><option>//div[3]/input</option></datalist>
+   </td><td>6</td>
+</tr><tr>
+    <td>type</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>323</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>27,11</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>7</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='buttonz']/div[2]<datalist><option>//div[@id='buttonz']/div[2]</option><option>//div[4]/div[2]</option></datalist></td>
+    <td>539,290</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/div/a/span</option></datalist></td>
+    <td>20,21</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='missionNameWrapper']/p<datalist><option>//div[@id='missionNameWrapper']/p</option><option>//div[5]/div[2]/div/p</option></datalist></td>
+    <td>476,4</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionButton1<datalist><option>id=missionButton1</option><option>link=Atakuj</option><option>//a[@id='missionButton1']</option><option>//li[@id='button1']/a</option><option>xpath=(//a[contains(@href, 'javascript:void(0);')])[12]</option><option>//div[2]/ul/li[8]/a</option></datalist></td>
+    <td>23,34</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionNameWrapper<datalist><option>id=missionNameWrapper</option><option>//div[@id='missionNameWrapper']</option><option>//div[@id='buttonz']/div[2]/div</option><option>//div[5]/div[2]/div</option></datalist></td>
+    <td>496,20</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='start']/span<datalist><option>//a[@id='start']/span</option><option>//div[2]/a[2]/span</option></datalist></td>
+    <td>164,31</td>
+</tr>
+</tbody></table>
+
+
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">[2:296:8] <- [2:199:5]</td></tr>
+</thead>
+<tbody>
+<tr>
+    <td>open</td>
+    <td>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33665513<datalist><option>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33665513</option></datalist></td>
+    <td></td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>28,5</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>150</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='allornone']/div<datalist><option>//div[@id='allornone']/div</option><option>//div[5]/div[2]/div[2]/div</option></datalist></td>
+    <td>482,43</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/a/span</option></datalist></td>
+    <td>58,17</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>14,2</td>
+</tr>
+<tr>   <td>type</td>
+   <td>id=galaxy<datalist><option>id=galaxy</option><option>name=galaxy</option><option>//input[@id='galaxy']</option><option>//td[@id='target']/div[3]/input</option><option>//div[3]/input</option></datalist>
+   </td><td>2</td>
+</tr><tr>
+    <td>type</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>296</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>27,11</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>8</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='buttonz']/div[2]<datalist><option>//div[@id='buttonz']/div[2]</option><option>//div[4]/div[2]</option></datalist></td>
+    <td>539,290</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/div/a/span</option></datalist></td>
+    <td>20,21</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='missionNameWrapper']/p<datalist><option>//div[@id='missionNameWrapper']/p</option><option>//div[5]/div[2]/div/p</option></datalist></td>
+    <td>476,4</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionButton1<datalist><option>id=missionButton1</option><option>link=Atakuj</option><option>//a[@id='missionButton1']</option><option>//li[@id='button1']/a</option><option>xpath=(//a[contains(@href, 'javascript:void(0);')])[12]</option><option>//div[2]/ul/li[8]/a</option></datalist></td>
+    <td>23,34</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionNameWrapper<datalist><option>id=missionNameWrapper</option><option>//div[@id='missionNameWrapper']</option><option>//div[@id='buttonz']/div[2]/div</option><option>//div[5]/div[2]/div</option></datalist></td>
+    <td>496,20</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='start']/span<datalist><option>//a[@id='start']/span</option><option>//div[2]/a[2]/span</option></datalist></td>
+    <td>164,31</td>
+</tr>
+</tbody></table>
+
+
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">[6:231:4] <- [6:111:8]</td></tr>
+</thead>
+<tbody>
+<tr>
+    <td>open</td>
+    <td>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33741624<datalist><option>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33741624</option></datalist></td>
+    <td></td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>28,5</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>150</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='allornone']/div<datalist><option>//div[@id='allornone']/div</option><option>//div[5]/div[2]/div[2]/div</option></datalist></td>
+    <td>482,43</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/a/span</option></datalist></td>
+    <td>58,17</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>14,2</td>
+</tr>
+<tr>   <td>type</td>
+   <td>id=galaxy<datalist><option>id=galaxy</option><option>name=galaxy</option><option>//input[@id='galaxy']</option><option>//td[@id='target']/div[3]/input</option><option>//div[3]/input</option></datalist>
+   </td><td>6</td>
+</tr><tr>
+    <td>type</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>231</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>27,11</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>4</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='buttonz']/div[2]<datalist><option>//div[@id='buttonz']/div[2]</option><option>//div[4]/div[2]</option></datalist></td>
+    <td>539,290</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/div/a/span</option></datalist></td>
+    <td>20,21</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='missionNameWrapper']/p<datalist><option>//div[@id='missionNameWrapper']/p</option><option>//div[5]/div[2]/div/p</option></datalist></td>
+    <td>476,4</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionButton1<datalist><option>id=missionButton1</option><option>link=Atakuj</option><option>//a[@id='missionButton1']</option><option>//li[@id='button1']/a</option><option>xpath=(//a[contains(@href, 'javascript:void(0);')])[12]</option><option>//div[2]/ul/li[8]/a</option></datalist></td>
+    <td>23,34</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionNameWrapper<datalist><option>id=missionNameWrapper</option><option>//div[@id='missionNameWrapper']</option><option>//div[@id='buttonz']/div[2]/div</option><option>//div[5]/div[2]/div</option></datalist></td>
+    <td>496,20</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='start']/span<datalist><option>//a[@id='start']/span</option><option>//div[2]/a[2]/span</option></datalist></td>
+    <td>164,31</td>
+</tr>
+</tbody></table>
+
+
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">[2:297:5] <- [2:199:5]</td></tr>
+</thead>
+<tbody>
+<tr>
+    <td>open</td>
+    <td>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33665513<datalist><option>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33665513</option></datalist></td>
+    <td></td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>28,5</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>150</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='allornone']/div<datalist><option>//div[@id='allornone']/div</option><option>//div[5]/div[2]/div[2]/div</option></datalist></td>
+    <td>482,43</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/a/span</option></datalist></td>
+    <td>58,17</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>14,2</td>
+</tr>
+<tr>   <td>type</td>
+   <td>id=galaxy<datalist><option>id=galaxy</option><option>name=galaxy</option><option>//input[@id='galaxy']</option><option>//td[@id='target']/div[3]/input</option><option>//div[3]/input</option></datalist>
+   </td><td>2</td>
+</tr><tr>
+    <td>type</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>297</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>27,11</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>5</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='buttonz']/div[2]<datalist><option>//div[@id='buttonz']/div[2]</option><option>//div[4]/div[2]</option></datalist></td>
+    <td>539,290</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/div/a/span</option></datalist></td>
+    <td>20,21</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='missionNameWrapper']/p<datalist><option>//div[@id='missionNameWrapper']/p</option><option>//div[5]/div[2]/div/p</option></datalist></td>
+    <td>476,4</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionButton1<datalist><option>id=missionButton1</option><option>link=Atakuj</option><option>//a[@id='missionButton1']</option><option>//li[@id='button1']/a</option><option>xpath=(//a[contains(@href, 'javascript:void(0);')])[12]</option><option>//div[2]/ul/li[8]/a</option></datalist></td>
+    <td>23,34</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionNameWrapper<datalist><option>id=missionNameWrapper</option><option>//div[@id='missionNameWrapper']</option><option>//div[@id='buttonz']/div[2]/div</option><option>//div[5]/div[2]/div</option></datalist></td>
+    <td>496,20</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='start']/span<datalist><option>//a[@id='start']/span</option><option>//div[2]/a[2]/span</option></datalist></td>
+    <td>164,31</td>
+</tr>
+</tbody></table>
+
+
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">[6:309:7] <- [6:386:15]</td></tr>
+</thead>
+<tbody>
+<tr>
+    <td>open</td>
+    <td>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33726740<datalist><option>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33726740</option></datalist></td>
+    <td></td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>28,5</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>150</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='allornone']/div<datalist><option>//div[@id='allornone']/div</option><option>//div[5]/div[2]/div[2]/div</option></datalist></td>
+    <td>482,43</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/a/span</option></datalist></td>
+    <td>58,17</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>14,2</td>
+</tr>
+<tr>   <td>type</td>
+   <td>id=galaxy<datalist><option>id=galaxy</option><option>name=galaxy</option><option>//input[@id='galaxy']</option><option>//td[@id='target']/div[3]/input</option><option>//div[3]/input</option></datalist>
+   </td><td>6</td>
+</tr><tr>
+    <td>type</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>309</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>27,11</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>7</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='buttonz']/div[2]<datalist><option>//div[@id='buttonz']/div[2]</option><option>//div[4]/div[2]</option></datalist></td>
+    <td>539,290</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/div/a/span</option></datalist></td>
+    <td>20,21</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='missionNameWrapper']/p<datalist><option>//div[@id='missionNameWrapper']/p</option><option>//div[5]/div[2]/div/p</option></datalist></td>
+    <td>476,4</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionButton1<datalist><option>id=missionButton1</option><option>link=Atakuj</option><option>//a[@id='missionButton1']</option><option>//li[@id='button1']/a</option><option>xpath=(//a[contains(@href, 'javascript:void(0);')])[12]</option><option>//div[2]/ul/li[8]/a</option></datalist></td>
+    <td>23,34</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionNameWrapper<datalist><option>id=missionNameWrapper</option><option>//div[@id='missionNameWrapper']</option><option>//div[@id='buttonz']/div[2]/div</option><option>//div[5]/div[2]/div</option></datalist></td>
+    <td>496,20</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='start']/span<datalist><option>//a[@id='start']/span</option><option>//div[2]/a[2]/span</option></datalist></td>
+    <td>164,31</td>
+</tr>
+</tbody></table>
+
+
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">[3:113:9] <- [3:219:6]</td></tr>
+</thead>
+<tbody>
+<tr>
+    <td>open</td>
+    <td>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33662312<datalist><option>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33662312</option></datalist></td>
+    <td></td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>28,5</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>150</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='allornone']/div<datalist><option>//div[@id='allornone']/div</option><option>//div[5]/div[2]/div[2]/div</option></datalist></td>
+    <td>482,43</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/a/span</option></datalist></td>
+    <td>58,17</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>14,2</td>
+</tr>
+<tr>   <td>type</td>
+   <td>id=galaxy<datalist><option>id=galaxy</option><option>name=galaxy</option><option>//input[@id='galaxy']</option><option>//td[@id='target']/div[3]/input</option><option>//div[3]/input</option></datalist>
+   </td><td>3</td>
+</tr><tr>
+    <td>type</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>113</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>27,11</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>9</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='buttonz']/div[2]<datalist><option>//div[@id='buttonz']/div[2]</option><option>//div[4]/div[2]</option></datalist></td>
+    <td>539,290</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/div/a/span</option></datalist></td>
+    <td>20,21</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='missionNameWrapper']/p<datalist><option>//div[@id='missionNameWrapper']/p</option><option>//div[5]/div[2]/div/p</option></datalist></td>
+    <td>476,4</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionButton1<datalist><option>id=missionButton1</option><option>link=Atakuj</option><option>//a[@id='missionButton1']</option><option>//li[@id='button1']/a</option><option>xpath=(//a[contains(@href, 'javascript:void(0);')])[12]</option><option>//div[2]/ul/li[8]/a</option></datalist></td>
+    <td>23,34</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionNameWrapper<datalist><option>id=missionNameWrapper</option><option>//div[@id='missionNameWrapper']</option><option>//div[@id='buttonz']/div[2]/div</option><option>//div[5]/div[2]/div</option></datalist></td>
+    <td>496,20</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='start']/span<datalist><option>//a[@id='start']/span</option><option>//div[2]/a[2]/span</option></datalist></td>
+    <td>164,31</td>
+</tr>
+</tbody></table>
+
+
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">[3:115:3] <- [3:219:6]</td></tr>
+</thead>
+<tbody>
+<tr>
+    <td>open</td>
+    <td>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33662312<datalist><option>https://s147-pl.ogame.gameforge.com/game/index.php?page=fleet1&cp=33662312</option></datalist></td>
+    <td></td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>28,5</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=ship_202<datalist><option>id=ship_202</option><option>name=am202</option><option>//input[@id='ship_202']</option><option>//li[@id='button202']/input</option><option>//div[3]/ul/li/input</option></datalist></td>
+    <td>150</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='allornone']/div<datalist><option>//div[@id='allornone']/div</option><option>//div[5]/div[2]/div[2]/div</option></datalist></td>
+    <td>482,43</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/a/span</option></datalist></td>
+    <td>58,17</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>14,2</td>
+</tr>
+<tr>   <td>type</td>
+   <td>id=galaxy<datalist><option>id=galaxy</option><option>name=galaxy</option><option>//input[@id='galaxy']</option><option>//td[@id='target']/div[3]/input</option><option>//div[3]/input</option></datalist>
+   </td><td>3</td>
+</tr><tr>
+    <td>type</td>
+    <td>id=system<datalist><option>id=system</option><option>name=system</option><option>//input[@id='system']</option><option>//td[@id='target']/div[3]/input[2]</option><option>//div[3]/input[2]</option></datalist></td>
+    <td>115</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>27,11</td>
+</tr>
+<tr>
+    <td>type</td>
+    <td>id=position<datalist><option>id=position</option><option>name=position</option><option>//input[@id='position']</option><option>//td[@id='target']/div[3]/input[3]</option><option>//div[3]/input[3]</option></datalist></td>
+    <td>3</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='buttonz']/div[2]<datalist><option>//div[@id='buttonz']/div[2]</option><option>//div[4]/div[2]</option></datalist></td>
+    <td>539,290</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='continue']/span<datalist><option>//a[@id='continue']/span</option><option>//div[2]/div/div/a/span</option></datalist></td>
+    <td>20,21</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//div[@id='missionNameWrapper']/p<datalist><option>//div[@id='missionNameWrapper']/p</option><option>//div[5]/div[2]/div/p</option></datalist></td>
+    <td>476,4</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionButton1<datalist><option>id=missionButton1</option><option>link=Atakuj</option><option>//a[@id='missionButton1']</option><option>//li[@id='button1']/a</option><option>xpath=(//a[contains(@href, 'javascript:void(0);')])[12]</option><option>//div[2]/ul/li[8]/a</option></datalist></td>
+    <td>23,34</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>id=missionNameWrapper<datalist><option>id=missionNameWrapper</option><option>//div[@id='missionNameWrapper']</option><option>//div[@id='buttonz']/div[2]/div</option><option>//div[5]/div[2]/div</option></datalist></td>
+    <td>496,20</td>
+</tr>
+<tr>
+    <td>clickAt</td>
+    <td>//a[@id='start']/span<datalist><option>//a[@id='start']/span</option><option>//div[2]/a[2]/span</option></datalist></td>
+    <td>164,31</td>
+</tr>
+</tbody></table>
+
+
+</body>
+</html>
